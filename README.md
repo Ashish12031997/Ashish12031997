@@ -1,4 +1,6 @@
 ## Hi there 👋
+I am an Engineer who loves to build software. I have been building software for more than 5 years. My expertise is building scalable backend services, ETL pipelines, integrations, and Frontend. 
+My Weapons Consists of Python, NodsJs, TypeScript and GoLang.
 
 <!--
 **Ashish12031997/Ashish12031997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
