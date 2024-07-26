@@ -1,9 +1,13 @@
 ## Hi there 👋
 I am an Engineer who loves to build software. I have been building software for more than 5 years. My expertise is building scalable backend services, ETL pipelines, integrations, and Frontend. 
+I have led teams to build highly scalable, available and fault tolerance microservices.  
+system design -> implementation  
 My Weapons Consists of Python, NodsJs, TypeScript and GoLang.
 
 - 🌱 I’m currently learning Generative AI. (Project coming soon..)
 - 🔭 I’m currently working on Media Download SDK
+- 👯 I’m looking to collaborate on building automation for generating AI content and publishing to social media.  
+- 📫 How to reach me: [<img src='https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ashish-patadiya//)         [<img src='https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg' alt='gmail' height='20'>](patadiyaashish12@gmail.com)
 <!--
 **Ashish12031997/Ashish12031997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
