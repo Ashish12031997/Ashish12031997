@@ -1,7 +1,7 @@
 ## Hi there 👋
 I am an Engineer who loves to build software. I have been building software for more than 5 years. My expertise is building scalable backend services, ETL pipelines, integrations, and Frontend. 
 I have led teams to build highly scalable, available and fault tolerance microservices.  
-system design -> implementation, I can do everything 
+system design -> implementation, I can do everything  
 My Weapons Consists of Python, NodsJs, TypeScript and GoLang.
 
 - 🌱 I’m currently learning Generative AI. (Project coming soon..)
